@@ -1,7 +1,5 @@
-linkedin logo instagram logo gmail logo
-Hello world 👋
-👩‍💻 About Me
-I'm Bianca from Brazil
+<h1>Hello world 👋</h1>
+<h2>👩‍💻 I'm Bianca from Brazil</h2>
 
 - 🔭 I’m working as Web developer
 - 📚 I'm currently learning Java Script
